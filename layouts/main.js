@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Nav from '../components/structure/nav';
 
 export default function Main({ children }) {
